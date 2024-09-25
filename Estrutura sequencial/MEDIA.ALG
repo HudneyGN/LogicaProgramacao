@@ -12,7 +12,7 @@ Inicio
        escreva("Idade: ")
        leia(idade1)
        
-       escreval("dados da primeira pessoa: ")
+       escreval("dados da segunda pessoa: ")
        escreva("Nome: ")
        leia(nome2)
        escreva("Idade: ")
